@@ -13,6 +13,7 @@
 <h4 align="center">- 📫 How to reach me **ritikhooda65@gmail.com**</h4>
 <br>
 <br>
+<br>
 - ⚡ Fun fact  "That Windows desktop's "Refresh" button is not some magical tool which keeps your computer healthy."
 
 <h3 align="left">Connect with me:</h3>

@@ -2,7 +2,7 @@
 ![MasterHead](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<img  align ="center" alt="web_development" width="1080" height="390" src="https://www.techuz.com/blog/wp-content/uploads/2018/08/How-to-hire-web-developers-from-India.gif">
+
 
 <h1 align="center">Hi 👋, I'm Ritik Hooda</h1>
 <h3 align="center">A passionate Full-Stack web-developer from India</h3>
